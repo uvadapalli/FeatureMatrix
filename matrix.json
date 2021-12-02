@@ -28,5 +28,15 @@
     "certificationRuns": 8,
     "additionalFeatures": 
       ["cashout"]    
+  },
+ {
+    "name": "Ingogo", 
+    "code": "ING",
+    "libraryVersion": 2.1
+    "pairing": true,    
+    "payAtTable": false,
+    "certificationRuns": 8,
+    "additionalFeatures": 
+      ["cashout"]    
   }
 ]
