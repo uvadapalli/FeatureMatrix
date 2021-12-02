@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ABACUS (iOS)", 
+    "code": "ABS",
+    "libraryVersion": 2.1
+    "pairing": true,
+    "payAtTable": true,
+    "certificationRuns": 10,
+    "additionalFeatures": 
+      ["cashout", "surcharge"]
+  },
+  {
+    "name": "lightspeed", 
+    "code": "LSP",
+    "libraryVersion": 2.1
+    "pairing": true,    
+    "payAtTable": false,
+    "certificationRuns": 8,
+    "additionalFeatures": 
+      []    
+  },
+  {
+    "name": "kpos", 
+    "code": "KPS",
+    "libraryVersion": 2.1
+    "pairing": true,    
+    "payAtTable": false,
+    "certificationRuns": 8,
+    "additionalFeatures": 
+      ["cashout"]    
+  }
+]
